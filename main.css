@@ -1,0 +1,24 @@
+body{
+	background-color: #cc33ff;
+}
+
+
+.container {
+	  max-width: 500px;
+  padding: 100px 30px;
+  margin: auto;
+  font-weight: 300;
+}
+
+
+.clock-part-1 {
+	height: 80px;
+}
+
+.clock-part-2 {
+	height: 80px;
+}
+
+.clock-part-3 {
+	height: 80px;
+}
